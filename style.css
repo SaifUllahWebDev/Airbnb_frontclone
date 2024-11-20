@@ -9,6 +9,15 @@
 /* HEADER STYLE  */
 .contain{
     margin: 0px 10px 0px 30px; 
+    position: sticky;
+    top: 0;
+    
+     
+}
+.nav-item{
+    backdrop-filter: blur(10px);
+    padding-top: 10px;
+    padding-bottom: 20px;
 }
 .globe{
     display: flex;
